@@ -15,7 +15,7 @@ To run this application, you will need the following:
 ## Getting Started
 ### 1. Clone the repository:
 ```
-git clone https://github.com/onrdr/FinansNewsReader-WebApp
+git clone https://github.com/onrdr/FinanceNewsReader-WebApp 
 ```
 
 ### 2. Navigate to the project directory:
