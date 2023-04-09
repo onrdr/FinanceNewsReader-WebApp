@@ -20,7 +20,7 @@ git clone https://github.com/onrdr/FinanceNewsReader-WebApp
 
 ### 2. Navigate to the project directory:
 ```
-cd FinansNewsReader-WebApp
+cd FinanceNewsReader-WebApp 
 ```
 
 ### 3. Open the project in your IDE
